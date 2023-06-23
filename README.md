@@ -1,2 +1,0 @@
-# FirstHomework
-С# - First Homework
